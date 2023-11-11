@@ -10,6 +10,12 @@ In the future, the Nutri AI app aims to create custom recipes to match your groc
 
 ![Nutri AI](https://github.com/ayushg245/Nutri-AI---Generative-AI-Hackathon/blob/main/png/nutri_ai.png)
 
+![Output1](https://github.com/ayushg245/Nutri-AI---Generative-AI-Hackathon/blob/main/png/ExampleImage0%20.png)
+
+![Output2](https://github.com/ayushg245/Nutri-AI---Generative-AI-Hackathon/blob/main/png/Example_Image1.png)
+
+![Output3](https://github.com/ayushg245/Nutri-AI---Generative-AI-Hackathon/blob/main/png/Example%20Image%202.png)
+
 
 ## Running the Application 🧨  
 Following are the steps to run the StreamLit Application: 
