@@ -8,8 +8,6 @@ Our Nutri AI is here to reshape the way we approach food. In a world dominated b
 Currently, the Nutri AI app takes the user's prompt and returns a dish recommended to the user, with nutrition facts, budget, and recipe information. Users can also download responses and log in to the application.
 In the future, the Nutri AI app aims to create custom recipes to match your groceries, dietary needs, time, and budget, elevating your daily meals. It also suggests nearby supermarkets for efficient shopping, simplifying meal planning, and promoting healthy choices.
 
-![Nutri AI](https://github.com/ayushg245/Nutri-AI---Generative-AI-Hackathon/blob/main/png/nutri_ai.png)
-
 ![Output1](https://github.com/ayushg245/Nutri-AI---Generative-AI-Hackathon/blob/main/png/ExampleImage0%20.png)
 
 ![Output2](https://github.com/ayushg245/Nutri-AI---Generative-AI-Hackathon/blob/main/png/Example_Image1.png)
